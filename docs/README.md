@@ -1,4 +1,4 @@
-# Crowdify - Collaborative Music Streaming Platform
+# Crowdify - Collaborative Music Streaming Web Platform
 
 Crowdify is a real-time music streaming platform where users can create rooms, invite others to join, add songs, and upvote tracks. The most upvoted song gets played automatically. It also features an AI chatbot for assistance and engagement.
 
